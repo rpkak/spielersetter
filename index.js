@@ -18,6 +18,6 @@ while(true){
 	});
 
 	console.log('start');
-	client.login(process.env.TOKEN);
+	client.login(process.env.token);
 	console.log('restart');
 }
